@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @BinaryMongoose
-- 👀 I’m interested in anything to so with programming, especially game development.
+- 👋 Hi, I’m @BinaryMongoose!
+- 👀 I’m interested in anything to do with programming, especially game development.
 - 🌱 I’m currently learning to use Visual Studio and scripting in Unity.
 
 <!---
