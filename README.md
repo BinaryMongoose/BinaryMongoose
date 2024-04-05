@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @BinaryMongoose!
-- 👀 I’m interested in anything to do with programming, especially game development.
-- 🌱 I’m currently learning to use Visual Studio and scripting in Unity.
+Shopping List: 
+- 1/2 cup of flour
+- 2 tablespoons of solder flux
+- 3 grams of depleted uranium
 
 <!---
 BinaryMongoose/BinaryMongoose is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
